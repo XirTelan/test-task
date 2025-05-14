@@ -1,0 +1,15 @@
+.wrapper {
+  width: 90vw;
+  height: 80vh;
+  position: relative;
+  align-content: center;
+  display: flex;
+}
+
+.placeholder {
+  margin: auto;
+}
+
+.catImage {
+  object-fit: contain;
+}
